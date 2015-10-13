@@ -170,7 +170,7 @@
           <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
           <dependencyDetailsEnabled>false</dependencyDetailsEnabled>
           <webAccessUrl>https://github.com/uweplonus/findbugs-examples</webAccessUrl>
-          <developerConnection>scm:git:ssh://git@github.com:uweplonus/findbugs-examples.git</developerConnection>
+          <developerConnection>scm:git:ssh://git@github.com:javakthar/findbugs-examples.git</developerConnection>
         </configuration>
         <reportSets>
           <reportSet>
@@ -197,14 +197,14 @@
   </reporting>
 
   <scm>
-    <developerConnection>scm:git:ssh://git@github.com:uweplonus/findbugs-examples.git</developerConnection>
-    <url>https://github.com/uweplonus/findbugs-examples</url>
+    <developerConnection>scm:git:ssh://git@github.com:javakthar/findbugs-examples.git</developerConnection>
+    <url>https://github.com/javakthar/findbugs-examples</url>
   </scm>
 
   <distributionManagement>
     <site>
       <id>github</id>
-      <url>scm:git:https://github.com/uweplonus/findbugs-examples.git</url>
+      <url>scm:git:https://github.com/javakthar/findbugs-examples.git</url>
     </site>
   </distributionManagement>
 
