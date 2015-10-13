@@ -193,6 +193,11 @@
           <includeFilterFile>src/findbugs/findbugs.xml</includeFilterFile>
         </configuration>
       </plugin>
+      <plugin>
+           <groupId>org.apache.maven.plugins</groupId>
+           <artifactId>maven-checkstyle-plugin</artifactId>
+           <version>${checkstyle.version}</version>
+        </plugin>
     </plugins>
   </reporting>
 
